@@ -1,2 +1,1 @@
-# Digital_Clock_Java
-Jednoduché digitální hodiny v Javě, běží v akcelerované grafice, pokud je k dispozici. Archiv je třeba někde rozbalit a spustit .jar soubor
+Simple digital clock, running in accelerated graphics if it is available. Download the .rar file, unpack it somewhere and run the .jar
